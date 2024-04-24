@@ -1,5 +1,6 @@
 ﻿using System.Windows.Input;
 using System.Windows;
+using ShopContent.View;
 
 
 namespace ShopContent
