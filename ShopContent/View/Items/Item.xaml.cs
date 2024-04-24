@@ -11,7 +11,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ShopContent.Items
+namespace ShopContent.View.Items
 {
     /// <summary>
     /// Логика взаимодействия для Item.xaml
